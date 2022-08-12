@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/4spheres/static/css/main.19d3887b.css",
-    "main.js": "/4spheres/static/js/main.d35e3796.js",
+    "main.js": "/4spheres/static/js/main.9926efe2.js",
     "static/media/sketch222.png": "/4spheres/static/media/sketch222.0ac8b75e3a4c8377c5dd.png",
     "static/media/sketch111.png": "/4spheres/static/media/sketch111.c07e96a5dd290d3568c4.png",
     "static/media/Questrial-Regular.ttf": "/4spheres/static/media/Questrial-Regular.8268e81790f4302669b7.ttf",
+    "static/media/4Spheres-Wireframe.xd": "/4spheres/static/media/4Spheres-Wireframe.381bde197d221a6789e5.xd",
+    "static/media/4Spheres-Wireframe.bmpr": "/4spheres/static/media/4Spheres-Wireframe.8cd5b8d2cbfabc50d024.bmpr",
     "static/media/wireframe111.png": "/4spheres/static/media/wireframe111.55e0f4dee6ab195c1036.png",
     "static/media/wireframe222.png": "/4spheres/static/media/wireframe222.743d55a01f44d2ccb3a6.png",
     "index.html": "/4spheres/index.html",
     "main.19d3887b.css.map": "/4spheres/static/css/main.19d3887b.css.map",
-    "main.d35e3796.js.map": "/4spheres/static/js/main.d35e3796.js.map"
+    "main.9926efe2.js.map": "/4spheres/static/js/main.9926efe2.js.map"
   },
   "entrypoints": [
     "static/css/main.19d3887b.css",
-    "static/js/main.d35e3796.js"
+    "static/js/main.9926efe2.js"
   ]
 }

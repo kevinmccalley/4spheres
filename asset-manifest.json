@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/4spheres/static/css/main.bd99fee0.css",
-    "main.js": "/4spheres/static/js/main.0a3a9881.js",
+    "main.css": "/4spheres/static/css/main.d3e85e32.css",
+    "main.js": "/4spheres/static/js/main.66b13be6.js",
     "static/media/code2.png": "/4spheres/static/media/code2.426fed3431eadabf641a.png",
     "static/media/sketch222.png": "/4spheres/static/media/sketch222.0ac8b75e3a4c8377c5dd.png",
     "static/media/sketch111.png": "/4spheres/static/media/sketch111.c07e96a5dd290d3568c4.png",
@@ -13,12 +13,13 @@
     "static/media/wireframe111.png": "/4spheres/static/media/wireframe111.55e0f4dee6ab195c1036.png",
     "static/media/wireframe222.png": "/4spheres/static/media/wireframe222.743d55a01f44d2ccb3a6.png",
     "static/media/Adobe_XD_CC_icon.svg": "/4spheres/static/media/Adobe_XD_CC_icon.d42e60c4655af5aa02c5367d68ddafa1.svg",
+    "static/media/Figma-logo.svg": "/4spheres/static/media/Figma-logo.0f4098dccb2a84e24331b00bc6a8dcf8.svg",
     "index.html": "/4spheres/index.html",
-    "main.bd99fee0.css.map": "/4spheres/static/css/main.bd99fee0.css.map",
-    "main.0a3a9881.js.map": "/4spheres/static/js/main.0a3a9881.js.map"
+    "main.d3e85e32.css.map": "/4spheres/static/css/main.d3e85e32.css.map",
+    "main.66b13be6.js.map": "/4spheres/static/js/main.66b13be6.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd99fee0.css",
-    "static/js/main.0a3a9881.js"
+    "static/css/main.d3e85e32.css",
+    "static/js/main.66b13be6.js"
   ]
 }
